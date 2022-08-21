@@ -6,7 +6,7 @@
 -->
 
 # Hello GitHub Actions
-
+<img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 _Create a GitHub Action and use it in a workflow._
 
 <!--
